@@ -57,7 +57,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 8070d085991dcb349bc5ebd408b9ab49, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -112,9 +112,9 @@ Material:
     m_Floats:
     - _AtmosFalloff: 14
     - _BumpScale: 1
-    - _CloudIntensityMin: 0.01
+    - _CloudIntensityMin: 0.016
     - _Cutoff: 0.5
-    - _DetailIntensity: 0
+    - _DetailIntensity: 0.46
     - _DetailIntensityMin: 0.01
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -123,17 +123,17 @@ Material:
     - _LightScale: 1
     - _Metallic: 0
     - _Mode: 0
-    - _NightIntensity: 0.6
+    - _NightIntensity: 0.706
     - _NightTransitionVariable: 4
-    - _NormalMapIntensity: 0.5
+    - _NormalMapIntensity: 0.104
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _RimIntensity: 10
-    - _RimPower: 12
+    - _RimPower: 13.3
     - _Shininess: 0.03
     - _Smoothness: 0.4
-    - _SpecularIntensity: 2
-    - _SpecularPower: 64
+    - _SpecularIntensity: 1.05
+    - _SpecularPower: 48
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
@@ -144,9 +144,9 @@ Material:
     - _DayTintColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0.04, g: 0.04, b: 0.04, a: 1}
     - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
-    - _RimColor: {r: 0, g: 0.27520287, b: 0.5955882, a: 0}
+    - _RimColor: {r: 0.03011746, g: 0.1726527, b: 0.33962262, a: 0}
     - _SpecColor: {r: 0.08823532, g: 0.08823532, b: 0.08823532, a: 1}
-    - _SunColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SunColor: {r: 0.8679245, g: 0.7150292, b: 0.29804197, a: 1}
     - _SunDir: {r: 0.93030155, g: 0.021202952, b: -0.36618242, a: 0}
     - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
   m_BuildTextureStacks: []
