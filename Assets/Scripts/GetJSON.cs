@@ -26,7 +26,6 @@ public class GetJSON : MonoBehaviour
 //            Debug.Log(webRequest.downloadHandler.text);
 //            var N = JSON.Parse(webRequest.downloadHandler.text);
 //            string weather  = N["current_weather"][0]["temperature"].Value;
-//            print(weather);
 //        }
 //    }
 //}
@@ -34,7 +33,7 @@ public class GetJSON : MonoBehaviour
     IEnumerator SendRequest ()
     {
         string url1 = "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m";
-        //Debug.Log("etape 1 ok");
+        Debug.Log("etape 1 ok");
         using var www = UnityWebRequest.Get(url1);
 
         www.SetRequestHeader("content-type", "application/JSON");
@@ -46,7 +45,14 @@ public class GetJSON : MonoBehaviour
 
 
         if (www.result == UnityWebRequest.Result.Success)
+        {
+            //Debug.Log("until here i'm ok");
+            var N = JSON.Parse(www.downloadHandler.text);
+            string weather  = N["current_weather"][0]["temperature"].Value;
+
+            Debug.Log("Temp is : " + weather);
             Debug.Log("Succes : " + www.downloadHandler.text);
+        }
         else
             Debug.Log("Failure");
     }
