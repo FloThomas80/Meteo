@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 public class GetJSON : MonoBehaviour
 {
-
+    public int Temperature;
     [ContextMenu("Test Get")]
     void Start()
     {
@@ -41,27 +41,18 @@ public class GetJSON : MonoBehaviour
      
         while (!operation.isDone)
             yield return Task.Yield();
-    
-
 
         if (www.result == UnityWebRequest.Result.Success)
         {
             //Debug.Log("until here i'm ok");
-            var N = JSON.Parse(www.downloadHandler.text);
-            string weather  = N["current_weather"][0]["temperature"].Value;
+            //var N = JSON.Parse(www.downloadHandler.text);
+            //= ["current_weather"][0]["temperature"].Value;
 
-            Debug.Log("Temp is : " + weather);
-            Debug.Log("Succes : " + www.downloadHandler.text);
+            //Debug.Log("Temp is : " + weather);
+            //Debug.Log("Succes : " + www.downloadHandler.text);
         }
         else
             Debug.Log("Failure");
     }
-
-//public class Button : Editor
-//{
-//    public override void OnInspectorGUI()
-//    {
-//        EditorGUILayout.LabelField("Send request");
-//    }
 
 }
