@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: f6c5b5ad250d1944abfcb79c3fea7573
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pictos_meteo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1761
+        width: 302
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f39b5a1af4524cae0e5805949dd4e
+      internalID: -1437927988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1728
+        width: 324
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e33f876ef1414baa229d4570e3bca
+      internalID: 162937170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1692
+        width: 350
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a697714437c714aa7dc87864c9d888
+      internalID: -9299062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1707
+        width: 337
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad0c02401110641b26e31e8ba62ad8
+      internalID: -497499639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1706.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb06c5f8888994299c39886f4f9ee1
+      internalID: 662388283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_5
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1706.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e19139b0e7a9444a0caebdf444e92e
+      internalID: -2014762608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1365.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8934c10b1872b4740ab688d7c230df16
+      internalID: 929949869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1360
+        width: 337
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b5b74acee906449105785c87eff61
+      internalID: 2100655933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1376
+        width: 311
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1c9101f239d2d4ab5964634c3802d2
+      internalID: 733425609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_9
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1365.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f9dbc13a88c14d8feca0b0f11440a
+      internalID: 1018888233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1365.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64502ebd5ba233340abdf3a6ab822f03
+      internalID: -137770391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_11
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1365.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3374853bc036042863211b65d01024
+      internalID: -1703315056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514cf647637821a408150f9a836a8dff
+      internalID: 1359667335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e1614790c6d2545aff9173270c0f0a
+      internalID: 1043049936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1024.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf89b20b3cf852e4eb4dc494d0671c69
+      internalID: 23679687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1024.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e685f27e3030b77499afe53c2f42f75a
+      internalID: 1526844442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1024.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232750a8762e82c46becd71137713001
+      internalID: 601563328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1024.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423fcc36e369e614189ee439834cecda
+      internalID: -2118406977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c326e9d2da0904e9636c355fc3a7e9
+      internalID: -833411755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 683.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a07e5375834d74a8fbbf077b6c6fe5
+      internalID: -368898031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 683.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e91d62df9249ec4da4741d1643a3c67
+      internalID: -1266960896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 683.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471a67e14b034e94a9afb497961ea78a
+      internalID: 1392784747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 683.6666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d916aaabc428445b164319eecec95a
+      internalID: -1292785406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_23
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 635
+        width: 337
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768dc9c17697a384ca00d9233885ac0f
+      internalID: -613749501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342.66666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e9fdd65907724c9e7674e2fc1afd4
+      internalID: 1429082048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 342.66666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4912c01e68272f4c9f3128bcfc34123
+      internalID: -1834343896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 271
+        width: 337
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8bce48722872849913dee6d48478c8
+      internalID: -412184887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 342.66666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe6fc01ffe34642a5083ef3759a5e6
+      internalID: -16866403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_28
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 276
+        width: 337
+        height: 341
+      alignment: 9
+      pivot: {x: 0.51328486, y: 0.46069157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd3fde56a1e62241b68011e35b4ca20
+      internalID: 2093240230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 342.66666
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ececa5fc22902c4babeb0876e210ace
+      internalID: -1814256787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666565
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080c054755aece546afccfda8f47a68e
+      internalID: -1909784333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1.6666565
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d001d72f57c566d44ab667d8ebc227ca
+      internalID: 1769118166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1.6666565
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f584ead69efbbfe44b2a791642201ef5
+      internalID: -1592511702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_33
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1.6666565
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a478dcba262bfc04882569ac548acc20
+      internalID: -1460452915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_34
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1.6666565
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f146fbdff0b6d547a76f008d9578d66
+      internalID: -1745539334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pictos_meteo_35
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1.6666565
+        width: 336.66666
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed0824804e1fa45890addf1f3079e2
+      internalID: -1664477854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a448f1cac2c35b04baf6c1e837e5ae0c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pictos_meteo_0: -1437927988
+      pictos_meteo_1: 162937170
+      pictos_meteo_10: -137770391
+      pictos_meteo_11: -1703315056
+      pictos_meteo_12: 1359667335
+      pictos_meteo_13: 1043049936
+      pictos_meteo_14: 23679687
+      pictos_meteo_15: 1526844442
+      pictos_meteo_16: 601563328
+      pictos_meteo_17: -2118406977
+      pictos_meteo_18: -833411755
+      pictos_meteo_19: -368898031
+      pictos_meteo_2: -9299062
+      pictos_meteo_20: -1266960896
+      pictos_meteo_21: 1392784747
+      pictos_meteo_22: -1292785406
+      pictos_meteo_23: -613749501
+      pictos_meteo_24: 1429082048
+      pictos_meteo_25: -1834343896
+      pictos_meteo_26: -412184887
+      pictos_meteo_27: -16866403
+      pictos_meteo_28: 2093240230
+      pictos_meteo_29: -1814256787
+      pictos_meteo_3: -497499639
+      pictos_meteo_30: -1909784333
+      pictos_meteo_31: 1769118166
+      pictos_meteo_32: -1592511702
+      pictos_meteo_33: -1460452915
+      pictos_meteo_34: -1745539334
+      pictos_meteo_35: -1664477854
+      pictos_meteo_4: 662388283
+      pictos_meteo_5: -2014762608
+      pictos_meteo_6: 929949869
+      pictos_meteo_7: 2100655933
+      pictos_meteo_8: 733425609
+      pictos_meteo_9: 1018888233
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
